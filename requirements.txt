@@ -1,0 +1,7 @@
+langchain
+langchain-community 
+unstructured 
+sentence-transformers
+torch
+llama-index
+langchain_google_genai
