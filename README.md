@@ -12,7 +12,7 @@ This innovative project aims to revolutionize cancer information retrieval, cove
 - Oral Cancer
 - Ovarian Cancer, and more.
 
-Utilizing @LangChain and @Pinecone (Vector DB), we delve into the forefront of Generative AI with the RAG model and the capabilities of the Gemini Pro LLM.
+Utilizing **LangChain** and **Pinecone** (Vector DB), we delve into the forefront of Generative AI with the RAG model and the capabilities of the Gemini Pro LLM.
 
 🔍 **Key Features:**
 
