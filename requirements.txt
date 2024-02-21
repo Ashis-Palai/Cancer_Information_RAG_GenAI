@@ -7,3 +7,4 @@ llama-index
 langchain_google_genai
 pypdf
 pinecone-client
+langchain-pinecone
